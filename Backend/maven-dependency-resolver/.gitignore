@@ -1,0 +1,49 @@
+__pycache__/
+
+.vscode/
+# Ignores for Maven Indexer
+# Language is Java
+# Build tool is Apache Maven 3
+
+# Maven related (and some plugins)
+target/
+*.ser
+*.ec
+
+# Eclipse related
+.classpath
+.project
+.settings/
+
+# Intellij
+*.ipr
+*.iml
+.idea/
+
+# Other
+.svn/
+bin/
+.DS_Store
+
+*.info 
+*.zip
+
+.env
+.devcontainer
+
+*.pyc
+
+.idea/
+
+/log/*
+*.log
+*.info
+
+nexus-maven-repository-index-updater.properties
+
+*.json
+
+target/
+
+/build/central
+/build/*.jar
