@@ -73,7 +73,7 @@ You need a running instance of postgresql to store the module metadata. If you d
 
 ## Running the Project
 
-1. Run the Go program:
+1. Run the java program:
 
    ```bash
    java -jar build/MavenEcoSystem.jar --indexer
