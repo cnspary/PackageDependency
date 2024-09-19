@@ -8,12 +8,6 @@ To run the crawler, use the following command with the module path and version a
 go run main.go <module_path> <module_version>
 ```
 
-For example:
-
-```bash
-go run main.go github.com/some/module v1.0.0
-```
-
 The program will:
 
 1. Connect to MongoDB.
