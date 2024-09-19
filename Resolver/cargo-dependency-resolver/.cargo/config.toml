@@ -1,0 +1,8 @@
+[net]
+git-fetch-with-cli = true
+
+[source.mirror]
+registry = "file:///absolute/path/to/crates.io-index/dir"
+
+[source.crates-io]
+replace-with = "mirror"
