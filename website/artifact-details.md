@@ -112,12 +112,16 @@ Developers extending OpenDep should keep the shared response contract stable whe
 Please cite the paper if you use OpenDep or the released dataset:
 
 ```bibtex
-@article{opendep,
-  title = {Untangling Intricate Dependencies: Characterizing and Resolving Software Package Dependencies},
-  author = {Wang, Xingyu and Shen, Wenbo and Chang, Rui and Liu, Chengwei and Liu, Yang},
-  journal = {TODO_BIBTEX_VENUE},
-  year = {TODO_YEAR}
-}
+@ARTICLE{11627712,
+  author={Wang, Xingyu and Shen, Wenbo and Chang, Rui and Liu, Chengwei and Liu, Yang},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Untangling Intricate Dependencies: Characterizing and Resolving Software Package Dependencies}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-21},
+  keywords={Package Manager;Dependency;and Dependency Resolution},
+  doi={10.1109/TSE.2026.3717842}}
 ```
 
 ## License
