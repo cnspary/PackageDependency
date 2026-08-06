@@ -100,9 +100,3 @@ Please cite the paper if you use OpenDep or the released dataset:
   keywords={Package Manager;Dependency;and Dependency Resolution},
   doi={10.1109/TSE.2026.3717842}}
 ```
-
-## Links
-
-- Code repository: [https://github.com/ZJU-SEC/OpenDep]({{ site.repository_url }})
-- DOI: [https://doi.org/10.5281/zenodo.14214124]({{ site.doi_url }})
-- License: Apache License 2.0
