@@ -97,6 +97,6 @@ Please cite the paper if you use OpenDep or the released dataset:
   volume={},
   number={},
   pages={1-21},
-  keywords={Package Manager;Dependency;and Dependency Resolution},
+  keywords={},
   doi={10.1109/TSE.2026.3717842}}
 ```
